@@ -222,7 +222,7 @@
     padding: 10px 10px;
   }
 }
-@media (max-width: 1024px) {
+@media (min-width: 1024px) {
   .main-content .product-wrapper {
     margin-left: 25px;
   }
